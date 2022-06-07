@@ -18,5 +18,5 @@
 
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Barber-Shop)
 
-<div align="right"> <h3> - Obrigado pela Visita (Thanks for visiting!) ✌🏻 </h3> </div> 
+<div align="right"> <h3> - Obrigado pela Visita ✌🏻 </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id=lucasmarcuzo/BarberShop"> </h3> </p>
