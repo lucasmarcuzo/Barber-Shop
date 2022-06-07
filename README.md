@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/Barber-Shop/">
-<img  width="600"  height="300"  src="Apresentacao/navalha.gif">
+<img  width="500"  height="300"  src="Apresentacao/navalha.gif">
 </p>
 
 ## 🛠 Tecnologias utilizadas:
@@ -19,4 +19,4 @@
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Barber-Shop)
 
 <div align="right"> <h3> - Obrigado pela Visita (Thanks for visiting!) ✌🏻 </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id=lucasmarcuzo/Barber-Shop"> </h3> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id=lucasmarcuzo/BarberShop"> </h3> </p>
