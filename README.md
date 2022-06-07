@@ -1,4 +1,4 @@
-## KINGO-Stock-Manager - Sistema de Controle de Estoque.
+## Barber-Shop - Sistema de Controle de Estoque.
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/Barber-Shop/">
