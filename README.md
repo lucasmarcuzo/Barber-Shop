@@ -1,4 +1,4 @@
-## Barber-Shop - Sistema de Controle de Estoque.
+## Barber-Shop - Sistema de Controle para Barbearia.
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/Barber-Shop/">
